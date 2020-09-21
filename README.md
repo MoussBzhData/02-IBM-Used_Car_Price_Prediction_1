@@ -1,11 +1,15 @@
-# 01-IBM-Exploratory-Data-Analysis
-Explore several methods to see if certain characteristics or features can be used to predict car price.
+# 02-IBM-Used_Car_Price_Prediction_1
+We will develop several models that will predict the price of the car using the variables or features.
 
-What are the main characteristics which have the most impact on the car price?
+Some questions we want to ask in this module
+-do I know if the dealer is offering fair value for my trade-in?
+-do I know if I put a fair value on my car?
 
-Import Data, 
-Analyzing Individual Feature Patterns using Visualization,
-Descriptive Statistical Analysis Seaborn,
-Basics of data Grouping,
-Correlation and Causation,
-The Analysis of Variance (ANOVA) returns two parameters: F-test score and P-value
+Linear Regression and Multiple Linear Regression
+Model Evaluation using Visualization
+Polynomial Regression 
+Pipelines
+Measures for In-Sample Evaluation; R^2 / R-squared and Mean Squared Error (MSE)
+Decision Making
+
+We conclude that the MLR model is the best model to be able to predict price.
