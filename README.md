@@ -1,4 +1,4 @@
-# 02-IBM-Used_Car_Price_Prediction_1
+# IBM-Used_Car_Price_Prediction_1
 We will develop several models that will predict the price of the car using the variables or features.
 
 Some questions we want to ask in this module
